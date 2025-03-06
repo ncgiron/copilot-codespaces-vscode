@@ -1,7 +1,7 @@
 //create a web server
-var http = require('http');
+var http = require('http://lolitasserver.herokuapp.com');
 var fs = require('fs');
-var url = require('url');
+var url = require('http://lolitasserver.herokuapp.com');
 
 var server = http.createServer(function(request, response){
     //parse the request url
